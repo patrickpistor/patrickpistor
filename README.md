@@ -1,6 +1,6 @@
 # Patrick Pistor - React Native Developer
 
-### Hi I'm Patrick! I'm a React Native developer based in Boston. Here are some things I work with!
+### Hi I'm Patrick! I'm a React Native developer based in Bentonville, Arkansas. Here are some things I work with!
  * React & React Native 
  * HTML / CSS / JavaScript 
  * nodeJS 
