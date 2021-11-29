@@ -6,7 +6,6 @@
  * nodeJS 
  * AWS & graphQL 
  * Java & Spring & Spring Boot 
- * PHP
  * Sketch / Figma / Adobe CC (Photoshop / Illustrator / XD)  
 
 ### Here are some awards and hackathons I've won 
