@@ -4,9 +4,10 @@
  * React & React Native 
  * HTML / CSS / JavaScript 
  * nodeJS 
- * AWS & graphQL 
+ * AWS & graphQL
+ * Python
  * Java & Spring & Spring Boot 
- * Sketch / Figma / Adobe CC (Photoshop / Illustrator / XD)  
+ * Sketch / Figma / Framer / Adobe CC (Photoshop / Illustrator / XD)  
 
 ### Here are some awards and hackathons I've won 
 * Apple Design Award - Apple Inc. - June, 2016
