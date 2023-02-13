@@ -1,1 +1,1 @@
-Hi I'm Patrick! I'm a React Native developer that lives on the internet. 
+Hi I'm Patrick! I'm a software engineer that lives on the internet. 
