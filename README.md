@@ -1,1 +1,1 @@
-Hi I'm Patrick! I'm a software engineer that lives on the internet. 
+Hi I'm Patrick! I'm a software engineer that lives in the metaverse. 
