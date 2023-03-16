@@ -1,1 +1,1 @@
-Hi I'm Patrick! I'm a software engineer that lives in the metaverse. 
+Hi I'm Patrick! I'm a software engineer that lives in the metaverse. I am trying to push my code to GitHub as I work on new projects.
